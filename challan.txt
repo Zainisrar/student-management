@@ -1,0 +1,11 @@
+Fees Challan
+
+Name: Ali
+ID: 12
+Mobile: 02329987
+Email: ali@gmail.com
+Gender: bawli
+DOB: male
+Address: 17-01-1998
+Date: 23:02:50
+Time: 23-05-2023
